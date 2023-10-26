@@ -1,4 +1,4 @@
-# Exercises-with-APIs - API calls and Data Analysis
+# Exercises_with_APIs - API calls and Data Analysis
 
 Welcome to the "Exercises-with-APIs" repository. Here, you will find exercises that involve making API calls and performing data analysis. If you're interested in practicing, you can explore a list of free and open public APIs with no authentication requirements on [this website](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/).
 
